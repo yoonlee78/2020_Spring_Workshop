@@ -29,30 +29,30 @@ Human Factors Psychology Lab, SNU, Seoul, Korea
 #### 4. Human-Robot Interaction
 - Hortensius, R., Hekele, F., & Cross, E. S. (2018). The perception of emotion in artificial agents. IEEE Transactions on Cognitive and Developmental Systems, 10(4), 852-864. (Presenter: Whani Kim)
 
-## II. Study
+## II. Study (methodologies)
 
 #### 1. Languages and Information
-Organizer : Yoon Kyung Lee 
+Presenter : Yoon Kyung Lee 
 
 [link](https://web.stanford.edu/class/cs124/)
 
 #### 2. CNN for Visual Recognition 
-Organizer : Yoon Kyung Lee 
+Presenter : Yoon Kyung Lee 
 
 [link](http://cs231n.stanford.edu/)
 
-#### 3. Machine Learning
-Organizer : Whani Kim
+#### 3. Introduction to Machine Learning
+Presenter : Whani Kim
 
 [link](https://www.coursera.org/learn/machine-learning)
 
 #### 4. Programming for Everybody (Getting Started with Python)
-Organizer : Hoyoung Maeng, Jae Eun Park
+Presenter : Hoyoung Maeng, Jae Eun Park
 
 [link](https://www.coursera.org/learn/python?)
 
+<!--
 #### 5. Feature Engineering for Maching Learning 
-Organizer : Inju Lee
-
+Presenter : Inju Lee
 [link](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241)
-
+-->
