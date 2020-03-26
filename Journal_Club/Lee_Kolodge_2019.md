@@ -1,6 +1,6 @@
 2020-03-26 Review
 
-### Lee, J. D., & Kolodge, K. (2019). Exploring trust in self-driving vehicles through text analysis. Human factors, 0018720819872672.
+### Lee, J. D., & Kolodge, K. (2020). Exploring Trust in Self-Driving Vehicles Through Text Analysis. Human Factors, 62(2), 260–277. https://doi.org/10.1177/0018720819872672
 
 ### Highlight:
 
