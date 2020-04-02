@@ -4,4 +4,4 @@ Week 1
 
 Week 2
 
-Recent Advances and New Directions in Measuring Theory of Mind in Autistic Adults [note]()
+- Livingston, Carr, & Shah (2019) Recent Advances and New Directions in Measuring Theory of Mind in Autistic Adults [note](https://github.com/yoonlee78/2020_Spring_Workshop/blob/master/Journal_Club/Livingston2019.md)
