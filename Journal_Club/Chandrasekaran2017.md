@@ -1,5 +1,5 @@
 
-### Chandrasekaran, A., Yadav, D., Chattopadhyay, P., Prabhu, V., & Parikh, D. (2017). It takes two to tango: Towards theory of ai's mind. arXiv preprint arXiv:1704.00717.<br>
+### Chandrasekaran, A., Yadav, D., Chattopadhyay, P., Prabhu, V., & Parikh, D. (2017). It takes two to tango: Towards theory of ai's mind.<br>
 
 Summary: 
 - Human should learn AI’s theory of mind to collaborate with AI<br>
