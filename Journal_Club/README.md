@@ -5,3 +5,8 @@ Week 1
 Week 2
 
 - Livingston, Carr, & Shah (2019) Recent Advances and New Directions in Measuring Theory of Mind in Autistic Adults [note](https://github.com/yoonlee78/2020_Spring_Workshop/blob/master/Journal_Club/Livingston2019.md), [pdf](https://www.ncbi.nlm.nih.gov/pubmed/30515619)
+
+
+Week 3
+
+- Chandrasekaran et al (2017). It Takes Two to Tango: Towards Theory of AI’s Mind [note](https://github.com/yoonlee78/2020_Spring_Workshop/blob/master/Journal_Club/Chandrasekaran2017.md) [pdf](https://arxiv.org/pdf/1704.00717.pdf)
